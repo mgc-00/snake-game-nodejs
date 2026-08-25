@@ -1,6 +1,6 @@
 "use strict";
 
-// This file contains configuration settings for the game world.
+// This file contains configuration settings for the game world //
 
 module.exports.WS = ' '; // Show an empty cell in the game world
 module.exports.SH = 'O'; // Show the snake's head (the front of the snake)
