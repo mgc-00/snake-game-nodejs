@@ -16,7 +16,7 @@ Follow these steps to start the game:
     Navigate to the project folder containing index.js.
     Run the following command to launch the game:
 
-node index.js
+node game.js
 
 Once the command runs, the game will start in your terminal, and you can begin playing right away!
 Exiting the Game
