@@ -5,7 +5,7 @@ Prerequisites
 
 To run this game, you’ll need to have Node.js installed on your computer. If you haven’t installed it yet, download and install it from the official website:
 
-Download Node.js
+Download Node.js to run the game
 
 
 Getting Started
