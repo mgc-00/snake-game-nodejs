@@ -1,5 +1,5 @@
 /**
- * Snake Game Utilities
+ * Snake Game Util
  * 
  * A collection of helper functions for the Snake game, including random number generation, 
  * grid checks, and rendering functions. These utilities help manage game logic, ensuring 
