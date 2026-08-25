@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "name": "Snake Node",
   "license": "ISC",
-  "main": "snake2.js",
+  "main": "game.js",
   "keywords": [
     "Snake",
     "game",
